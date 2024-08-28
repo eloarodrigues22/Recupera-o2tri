@@ -1,0 +1,29 @@
+/* Estilo para o título principal */
+header h1 {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    color: blue;
+}
+
+/* Estilo para o título secundário */
+main h2 {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: red;
+}
+
+/* Estilo para os parágrafos */
+main p {
+    font-size: 15px;
+    font-family: 'Times New Roman', serif;
+    color: black;
+}
+
+/* Estilo para o código dentro do parágrafo */
+pre code {
+    display: block;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
